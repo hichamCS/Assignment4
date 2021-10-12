@@ -1,0 +1,2 @@
+rootProject.name = "tipc2"
+include ':app'
